@@ -1,5 +1,5 @@
 # klipperscreen_frix
 Klipperscreen macros for klipper Frix's config
 
-* include macro.cfg
+* include macros.cfg
 * update KlipperScreen.conf
